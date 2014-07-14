@@ -134,9 +134,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="AppBuilt\main.js" />
     <Content Include="App\main.js" />
-    <Content Include="App\mockData\durandal.js" />
     <Content Include="App\mockData\multiplication.js" />
-    <Content Include="App\mockData\requirejs.js" />
     <Content Include="App\mockData\satWords.js" />
     <Content Include="App\mockData\statesAndCapitals.js" />
     <Content Include="App\models\card.js" />
